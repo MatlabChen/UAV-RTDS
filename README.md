@@ -5,11 +5,11 @@ Tutorial Viedo:
 
 ###### **0.Environment**
 
-a.uav-server
+(a) uav-server
 
 JDK >= 1.8 
 
-b.uav-client
+(b) uav-client
 
 JDK >= 1.8 and Darknet (https://github.com/AlexeyAB/darknet)
 
@@ -19,13 +19,13 @@ Link: https://pan.baidu.com/s/1CnVQm6-PXe5_JU5ySXo2hw?pwd=qmpl
 
 ###### **2.Launch UAV-RTDS**
 
-a. Launch server
+(a) Launch server
 
 java -jar uav-server-1.0-SNAPSHOT-GPS.jar 9000 ./recv 
 
 9000 is Data transmission port and ./recv is data storage location, both can change
 
-b. Launch Client
+(b) Launch Client
 
 java -jar uav-client.jar -h 192.168.199.113 -p 9000 -f ./data/result -n TX2 -c 1024
 
@@ -39,6 +39,6 @@ java -jar uav-client.jar -h 192.168.199.113 -p 9000 -f ./data/result -n TX2 -c 1
 
 -c The number of bytes transmitted at a time
 
-c. Launch front
+(c) Launch front
 
 Browser access http://localhost:8080/
