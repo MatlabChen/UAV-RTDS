@@ -1,9 +1,9 @@
 # UAV-RTDS
 This is the implement of IJDE "Deep Learning on embedded system for real-time target detection from unmanned aerial vehicle images: vehicle detection as a case study"
 
-Tutorial Viedo: 
+Tutorial Viedo:
 
-0.Environment 
+###### **0.Environment**
 
 a.uav-server
 
@@ -13,11 +13,11 @@ b.uav-client
 
 JDK >= 1.8 and Darknet (https://github.com/AlexeyAB/darknet)
 
-1.Dataset
+###### **1.Dataset**
 
-Link: https://pan.baidu.com/s/1CnVQm6-PXe5_JU5ySXo2hw?pwd=qmpl 
+Link: https://pan.baidu.com/s/1CnVQm6-PXe5_JU5ySXo2hw?pwd=qmpl
 
-2.Launch UAV-RTDS
+###### **2.Launch UAV-RTDS**
 
 a. Launch server
 
