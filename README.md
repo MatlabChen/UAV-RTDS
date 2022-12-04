@@ -26,7 +26,7 @@ java -jar uav-server-1.0-SNAPSHOT-GPS.jar 9000 ./recv
 
 9000 is data transmission port and ./recv is data storage location, both can change
 
-(b) Launch Client
+(b) Launch client
 
 java -jar uav-client.jar -h 192.168.199.113 -p 9000 -f ./data/result -n TX2 -c 1024
 
