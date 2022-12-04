@@ -1,7 +1,8 @@
 # UAV-RTDS
 This is the implement of IJDE "Deep Learning on embedded system for real-time target detection from unmanned aerial vehicle images: vehicle detection as a case study"
 
-Tutorial Viedo:
+Tutorial Viedo: https://pan.baidu.com/s/15yDbnopukPXCcJ3DinHbmQ?pwd=jesn 
+
 
 ###### **0.Environment**
 
@@ -23,7 +24,7 @@ Link: https://pan.baidu.com/s/1CnVQm6-PXe5_JU5ySXo2hw?pwd=qmpl
 
 java -jar uav-server-1.0-SNAPSHOT-GPS.jar 9000 ./recv 
 
-9000 is Data transmission port and ./recv is data storage location, both can change
+9000 is data transmission port and ./recv is data storage location, both can change
 
 (b) Launch Client
 
