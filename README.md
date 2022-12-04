@@ -6,7 +6,7 @@ For the majority of unmanned aerial vehicle (UAV) remote sensing applications, t
 
 The research has been submitted to the journal of International Journal of Digital Earth, which is the code implementation of the system and as the auxiliary material of the paper. Please read the paper carefully for the hardware composition, wording principle, experimental process and some other relevant technical details of the system. The auxiliary materials mainly include three parts: (1) code and description, (2) corresponding dataset, and (3) tutorial video. Note: GitHub only contains (1), (2) and (3) on the network disk (please see the link below.), due to space limitations on GitHub.
 
-Tutorial video: https://pan.baidu.com/s/15yDbnopukPXCcJ3DinHbmQ?pwd=jesn
+Tutorial video: https://pan.baidu.com/s/1L0LQ4RPa76ou8r9HFlh2OA?pwd=zx48
 
 Dataset: https://pan.baidu.com/s/1CnVQm6-PXe5_JU5ySXo2hw?pwd=qmpl
 
