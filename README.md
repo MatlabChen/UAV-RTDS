@@ -1,7 +1,7 @@
 # UAV-RTDS
 This is the implement of IJDE "Deep Learning on embedded system for real-time target detection from unmanned aerial vehicle images: vehicle detection as a case study"
 
-Tutorial Viedo: https://pan.baidu.com/s/15yDbnopukPXCcJ3DinHbmQ?pwd=jesn 
+Tutorial video: https://pan.baidu.com/s/15yDbnopukPXCcJ3DinHbmQ?pwd=jesn 
 
 
 ###### **0.Environment**
